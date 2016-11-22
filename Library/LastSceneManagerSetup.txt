@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GD 205 FALL 2016 PROTOTYPE 2.unity
+  isLoaded: 1
+  isActive: 1
